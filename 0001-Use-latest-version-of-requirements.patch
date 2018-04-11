@@ -1,0 +1,26 @@
+From b20d0ebb73a82a206bc6004fb3d253f38ebc6b9b Mon Sep 17 00:00:00 2001
+From: Gabriel Briones Sayeg <gabriel.briones.sayeg@intel.com>
+Date: Wed, 11 Apr 2018 13:14:53 -0500
+Subject: [PATCH] Use latest version of requirements
+
+Signed-off-by: Gabriel Briones Sayeg <gabriel.briones.sayeg@intel.com>
+---
+ test-requirements.txt | 6 +++---
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+diff --git a/test-requirements.txt b/test-requirements.txt
+index 9dc5b8b..900f93f 100644
+--- a/test-requirements.txt
++++ b/test-requirements.txt
+@@ -1,3 +1,3 @@
+-pytest==3.0.2
+-flake8==2.4.1
+-pytest-cov==2.3.1
+\ No newline at end of file
++pytest>=3.0.2
++flake8>=2.4.1
++pytest-cov>=2.3.1
+\ No newline at end of file
+-- 
+2.17.0
+
