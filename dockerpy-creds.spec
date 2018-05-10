@@ -4,7 +4,7 @@
 #
 Name     : dockerpy-creds
 Version  : 0.2.2
-Release  : 3
+Release  : 4
 URL      : https://github.com/shin-/dockerpy-creds/archive/0.2.2.tar.gz
 Source0  : https://github.com/shin-/dockerpy-creds/archive/0.2.2.tar.gz
 Summary  : No detailed summary available
