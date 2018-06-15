@@ -25,7 +25,7 @@ BuildRequires : pycodestyle-python
 BuildRequires : pyflakes-python
 BuildRequires : pytest-cov-python
 BuildRequires : pytest-python
-BuildRequires : python-dev
+
 BuildRequires : python3-dev
 BuildRequires : setuptools
 BuildRequires : six
